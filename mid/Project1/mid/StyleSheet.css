@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital@1&family=Pacifico&family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akronim&family=Barrio&family=Black+Ops+One&family=Cabin+Sketch&family=Eater&family=Faster+One&family=Fredericka+the+Great&family=Libre+Barcode+39+Extended+Text&family=Monofett&family=Monoton&family=New+Rocker&family=Nosifer&family=Pacifico&family=Press+Start+2P&family=VT323&display=swap');
+
+#title {
+    background-color:#000000;
+    padding-top: 2%;
+    padding-left: 7%;
+    padding-right: 10%;
+    color: white;
+    padding-bottom:2%;
+}
+hr {
+    background-color: #FF0000;
+    margin-top:0;
+    border-width:10px;
+}
+#hr2 {
+    background-color:magenta;
+    border-width:20px;
+}
+.title-img{
+    border-radius:2%;
+    width:750px;
+    height:400px;
+    float:right;
+    margin-right:-153.5px;
+}
+h1 {
+    font-family: 'Black Ops One', cursive;
+}
+
+h2 {
+    font-family: 'Nosifer', cursive;
+}
+
+h2 {
+    color: #ffd800;
+}
+    h2 span {
+        color: #FF0000;
+    }
+
+.title-dsc {
+    padding-top: 25px;
+}
+
+.navbar {
+    padding: 0;
+}
+
+.down-button {
+    margin-top: 10px;
+    margin-right: 20px;
+}
+h3 {
+    font-family:Britannic;
+    margin-top: 40px;
+}
+#about h1 {
+    font-family: 'Cabin', sans-serif;
+    font-size: 3em;
+    text-align: center;
+    padding-top: 40px;
+    color: white;
+}
+#about p {
+    padding-top:20px;
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+    font-size:20px;
+    color:white;
+    font-weight:600;
+}
+#about {
+    background-color:black;
+    background-image: url(https://wallpaperscave.ru/images/original/18/05-05/artistic-graffiti-48491.jpg);
+    background-repeat:no-repeat;
+    height:400px;
+    margin-top:0;
+}
+#features {
+    background-image: url(https://concentrol.com/wp-content/uploads/2017/04/ordisol-swt.jpg);
+    padding-top: 5%;
+    padding-bottom:5%;
+    padding-left: 7%;
+    padding-right: 7%;
+    text-align: center;
+}
+.feature-fas1 {
+    font-size: 50px;
+    color:gold;
+    margin-bottom: 20px;
+}
+.feature-fas2 {
+    font-size: 50px;
+    color: aqua;
+    margin-bottom: 20px;
+}
+.feature-fas3 {
+    font-size: 50px;
+    color:crimson;
+    margin-bottom: 20px;
+}
+#features h1 {
+    font-family: 'Cabin', sans-serif;
+}
+#features h2 {
+    font-family: 'Cabin', sans-serif;
+    color:black;
+    font-size:40px;
+    padding-bottom:80px;
+    font-weight:600;
+}
+#features p{
+    font-weight:600;
+}
+
+#works {
+    padding-top: 3%;
+    text-align: center;
+    background-image: url(https://free4kwallpapers.com/uploads/originals/2020/07/09/paranormal-desktop-wallpaper.jpg);
+}
+#works h1{
+    font-size:80px;
+    color:white;
+}
+
+.photo {
+    padding-top: 3%;
+    width: 900px;
+    height: 700px;
+}
+
+#pricing {
+    padding-top: 60px;
+    margin-top: -16px;
+    background-image: url(https://images.hdqwalls.com/wallpapers/three-colors-abtract-4k-u4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 7%;
+    padding-right: 7%;
+    text-align: center;
+}
+    #pricing h1 {
+        font-family: 'Black Ops One', cursive;
+        font-size: 80px;
+        color:white;
+    }
+.card {
+    width: 400px;
+    
+}
+
+.price-row {
+    margin-top: 60px;
+    padding-bottom: 70px;
+}
+
+#contact {
+    text-align: center;
+    background-image: url(https://avatars.mds.yandex.net/get-zen_doc/1900274/pub_5cfbe81a34ace300afb34317_5cfbf87de77f2e00b01ced8c/scale_1200);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-top: -16px;
+}
+    #contact i {
+        color: #bdbdbd;
+        font-size: 30px;
+        padding: 20px;
+    }
+    #contact i:hover{
+        color:goldenrod;  
+    }
+.container li {
+    display: inline-block;
+    margin-left: 20px;
+}
+#contact p {
+    color: white;
+    margin-left: 7.5%;
+}
